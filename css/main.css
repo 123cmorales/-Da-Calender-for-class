@@ -1,0 +1,22 @@
+.heading {
+  text-align: center;
+}
+.col-sm {
+  border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 100px;
+  padding-right: 50px;
+  font-variant: small-caps;
+}
+.col {
+    border-style: solid;
+    font-variant: small-caps;
+    text-align: center;
+}
+.month {
+  border-style: solid;
+}
+.color {
+  background-color: #89ABE3FF;
+  color:#FCF6F5FF ;
+}
